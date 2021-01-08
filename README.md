@@ -8,7 +8,9 @@
  2  Abrir el proyecto con el editor de código: Visual Studio Code.
  
  3  Una vez teniendo abierto el proyecto al dicho editor. 
-    Se prosigue entrar en el directorio o la  aplicación  que es :  cd pelis
+    Se prosigue entrar en el directorio o la  aplicación  que es : 
+    
+    cd pelis
     
  # Ejecutar la aplicación en modo de desarrollo.
  4  Estando ahí, correr el servidor de forma que inicie cada archivo de nuestro aplicación; 
@@ -16,8 +18,8 @@
     con el siguiente comando:
     npm start 
     
-    Después de que cargue todas los archivo de la aplicación, automática se abre el navegador mostrando nuestra página. 
-    ó abra  http: // localhost: 3000 para verlo en el navegador igual.
+  Después de que cargue todas los archivo de la aplicación, automática se abre el navegador mostrando nuestra página. 
+      ó abra  http: // localhost: 3000 para verlo en el navegador igual.
     
 # ¿Qué nos brinda el chatbot?
 Saludos.
